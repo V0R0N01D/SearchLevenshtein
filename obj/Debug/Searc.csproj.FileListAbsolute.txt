@@ -108,3 +108,25 @@ E:\VS\Searc\obj\Debug\Searc.csproj.CoreCompileInputs.cache
 E:\VS\Searc\obj\Debug\Searc.csproj.CopyComplete
 E:\VS\Searc\obj\Debug\Searc.exe
 E:\VS\Searc\obj\Debug\Searc.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\Searc.exe.config
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\Searc.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\Searc.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc_Content.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.g.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Searc\obj\Debug\Searc.pdb
